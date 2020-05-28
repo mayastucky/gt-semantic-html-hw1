@@ -1,21 +1,26 @@
 # gt-semantic-html-hw1
 
-## Description 
-This HTML code utilizes semantic HTML to get us familiarized with accessibility features and practice making our code as accessible as possible or editing pre-existing code to be more accessible. 
+## Description
 
-## Installation 
-Clone the repo from GitHub and run index.html in browser. 
+This HTML code utilizes semantic HTML to get us familiarized with accessibility features and practice making our code as accessible as possible or editing pre-existing code to be more accessible.
 
-## Usage 
-Provides best practices for semantic HTML in programming. 
+## Installation
 
-## Credits 
-This was a solo project completed as homework for the Georgia Tech Full Stack Flex program. 
+Clone the repo from GitHub and run index.html in browser.
 
-## License  
+## Usage
+
+Provides best practices for semantic HTML in programming.
+
+## Credits
+
+This was a solo project completed as homework for the Georgia Tech Full Stack Flex program.
+
+## License
+
 MIT License
 
-Copyright (c) [2020] [Maya Stucky]
+Copyright (c) [2020][maya stucky]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
